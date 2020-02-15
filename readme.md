@@ -44,7 +44,7 @@ The `src/app.js` contains an array of 20 Super Heroes and Super-Villains. We are
 
 Open the `SpecRunner.html` file on your browser and start coding to pass the test. Remember to focus on one test at a time and read carefully the instructions to understand what you have to do.
 
-### Pregression 1: MORE PLAYERS ! MORE FUN !
+### Pregression 1: More players, more fun
 
 Dustin and Lucus wants to create players.In `initPlayers()`, loop through passed constant and  create JSON Objects, such that each player contains name, strength, image url and type.  
 * Use default `strength` as any number.  
@@ -62,11 +62,11 @@ Dustin and Lucus wants to create players.In `initPlayers()`, loop through passed
     ]
     ```
 
-### Progression 2: COURAGE IS GRACE !
+### Progression 2: Courage is grace
 
 Add your logic in `getRandomStrength()` method, such that it should _return a random strength_ from 1 to 100. The strength is what is gonna decide the winner.
 
-### Progression 3: NO PLAYER SHOULD FALL !
+### Progression 3: No player should fall
 
 In `buildPlayers()`, loop through the created JSON objects and accumulate HTML template as below and _return HTML element_.
  ```JS
