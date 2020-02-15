@@ -44,7 +44,7 @@ The `src/app.js` contains an array of 20 Super Heroes and Super-Villains. We are
 
 Open the `SpecRunner.html` file on your browser and start coding to pass the test. Remember to focus on one test at a time and read carefully the instructions to understand what you have to do.
 
-### Pregression 1: More players, more fun
+### Progression 1: More players, more fun
 
 Dustin and Lucus wants to create players.In `initPlayers()`, loop through passed constant and  create JSON Objects, such that each player contains name, strength, image url and type.  
 * Use default `strength` as any number.  
