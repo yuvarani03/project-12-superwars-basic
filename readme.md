@@ -56,7 +56,7 @@ Dustin and Lucus wants to create players.In `initPlayers()`, loop through passed
         {
             name:"Super Man",
             strength:100,
-            img:"images/hero-1.png",
+            image:"images/hero-1.png",
             type:"hero|villain"
         }
     ]
